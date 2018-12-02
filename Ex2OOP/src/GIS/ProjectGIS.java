@@ -5,6 +5,11 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+	/**
+	 * this class represents a number of csv files, that consist of layers.
+	 * @author yael hava and naama hartuv
+	 */
+
 public class ProjectGIS implements GIS_project{
 	
 	Set<GIS_layer> set = new HashSet<GIS_layer>();
@@ -75,6 +80,11 @@ public class ProjectGIS implements GIS_project{
 		return set.toArray(arg0);
 	}
 
+	/**
+	 * @return pmd - the data of the project
+
+	 */
+	
 	@Override
 	public Meta_data get_Meta_data() {		
 		return pmd;

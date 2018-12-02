@@ -58,7 +58,10 @@ public class metaDataGIS implements Meta_data{
 		return Type;
 	}
 
-
+	public String FirstSeen(String firstSeen) {
+		return firstSeen.substring(0, 9) + "T " + firstSeen.substring(10) + "Z ";
+	}
+	
 
 	/**
 	 *  returns the Universal Time Clock associated with this data
@@ -72,15 +75,11 @@ public class metaDataGIS implements Meta_data{
 
 		Date date = null;
 		try {
-			date = format.parse("1995-10-26 10:49:48");
+			date = format.parse(this.getFirstSeen());
 		} catch (ParseException e) {
 			e.printStackTrace();
 		}
 		long millis = date.getTime();
-//		System.out.println(millis);
-//		  SimpleDateFormat sdf = new SimpleDateFormat();
-//	        sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
-//	        System.out.println(sdf.format(new Date(millis)));
 
 		return millis;
 	}

@@ -5,11 +5,18 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+	/**
+	 * this class represents the the layer which is a csv file, that consist of elements.
+	 * @author yael hava and naama hartuv
+	 */
+
 public class LayerGIS implements GIS_layer {
 
-	Set<GIS_element> set = new HashSet<GIS_element>();
-	LayerMetaData lmd;
+	private Set<GIS_element> set = new HashSet<GIS_element>();
+	private LayerMetaData lmd;
 
+	
+	
 	@Override
 	public boolean add(GIS_element arg0) {
 		return set.add(arg0);
@@ -75,6 +82,8 @@ public class LayerGIS implements GIS_layer {
 		return set.toArray(arg0);
 	}
 
+	
+	
 	@Override			
 	public Meta_data get_Meta_data() {
 		return lmd;

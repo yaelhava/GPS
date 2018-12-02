@@ -15,7 +15,7 @@
 <Point>
 <coordinates>34.812397786519114, 32.17005164614875</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:32</when></TimeStamp>
+<when>2017-12-0T  11:00:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -23,7 +23,7 @@
 <Point>
 <coordinates>34.813008839731566, 32.17221891605429</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:05</when></TimeStamp>
+<when>2017-12-0T  11:01:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-F028</name>
@@ -31,7 +31,7 @@
 <Point>
 <coordinates>34.81356387819144, 32.17042884309843</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:08</when></TimeStamp>
+<when>2017-12-0T  10:58:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -39,7 +39,7 @@
 <Point>
 <coordinates>34.812397786519114, 32.17005164614875</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:32</when></TimeStamp>
+<when>2017-12-0T  11:00:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX</name>
@@ -47,7 +47,7 @@
 <Point>
 <coordinates>34.81367243117691, 32.17094894909989</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:14</when></TimeStamp>
+<when>2017-12-0T  10:59:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Yotam_Shir</name>
@@ -55,7 +55,7 @@
 <Point>
 <coordinates>34.81334830357392, 32.1711226542225</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:20</when></TimeStamp>
+<when>2017-12-0T  10:59:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Hotbox</name>
@@ -63,7 +63,7 @@
 <Point>
 <coordinates>34.81247911919242, 32.1725225188478</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:11</when></TimeStamp>
+<when>2017-12-0T  10:50:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Fuck Off ext</name>
@@ -71,7 +71,7 @@
 <Point>
 <coordinates>34.81201044802282, 32.16927107246911</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:26</when></TimeStamp>
+<when>2017-12-0T  10:57:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ronkla2_5</name>
@@ -79,7 +79,7 @@
 <Point>
 <coordinates>34.81168874408503, 32.17135803478369</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:35</when></TimeStamp>
+<when>2017-12-0T  10:50:35Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>klaiman</name>
@@ -87,7 +87,7 @@
 <Point>
 <coordinates>34.8119993015223, 32.16921657591955</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:56</when></TimeStamp>
+<when>2017-12-0T  10:59:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ELCHARAR_2.4</name>
@@ -95,7 +95,7 @@
 <Point>
 <coordinates>34.81208525807686, 32.16943682725201</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:29</when></TimeStamp>
+<when>2017-12-0T  10:57:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Lili</name>
@@ -103,7 +103,7 @@
 <Point>
 <coordinates>34.81077184677352, 32.169491346626565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:08</when></TimeStamp>
+<when>2017-12-0T  10:51:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>SIEMENS_LivingRoom</name>
@@ -111,7 +111,7 @@
 <Point>
 <coordinates>34.812613739872425, 32.17028599663912</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:47</when></TimeStamp>
+<when>2017-12-0T  10:58:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Beni</name>
@@ -119,7 +119,7 @@
 <Point>
 <coordinates>34.81367243117691, 32.17094894909989</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:14</when></TimeStamp>
+<when>2017-12-0T  10:59:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIR-825-4f83</name>
@@ -127,7 +127,7 @@
 <Point>
 <coordinates>34.81291470608912, 32.17244003231061</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:05</when></TimeStamp>
+<when>2017-12-0T  10:50:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -135,7 +135,7 @@
 <Point>
 <coordinates>34.81191817927795, 32.169027594463216</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:59</when></TimeStamp>
+<when>2017-12-0T  10:59:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -143,7 +143,7 @@
 <Point>
 <coordinates>34.81356387819144, 32.17042884309843</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:08</when></TimeStamp>
+<when>2017-12-0T  10:58:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Lahav</name>
@@ -151,7 +151,7 @@
 <Point>
 <coordinates>34.81383247774181, 32.172359339129684</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:20</when></TimeStamp>
+<when>2017-12-0T  11:01:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>NIPPON_3687</name>
@@ -159,7 +159,7 @@
 <Point>
 <coordinates>34.81247911919242, 32.1725225188478</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:11</when></TimeStamp>
+<when>2017-12-0T  10:50:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>forestisthebest</name>
@@ -167,7 +167,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:26</when></TimeStamp>
+<when>2017-12-0T  10:51:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX111</name>
@@ -175,7 +175,7 @@
 <Point>
 <coordinates>34.81362985551846, 32.17098714928447</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:17</when></TimeStamp>
+<when>2017-12-0T  10:58:17Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>TUCHLER</name>
@@ -183,7 +183,7 @@
 <Point>
 <coordinates>34.81268553093009, 32.170654027529686</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:41</when></TimeStamp>
+<when>2017-12-0T  11:00:41Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>hilda</name>
@@ -191,7 +191,7 @@
 <Point>
 <coordinates>34.813408321637986, 32.1695720901851</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:53</when></TimeStamp>
+<when>2017-12-0T  10:57:53Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>044870715</name>
@@ -199,7 +199,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>nina</name>
@@ -207,7 +207,7 @@
 <Point>
 <coordinates>34.812198841457004, 32.16964553962474</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:50</when></TimeStamp>
+<when>2017-12-0T  10:59:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Daizad</name>
@@ -215,7 +215,7 @@
 <Point>
 <coordinates>34.813533118254576, 32.17024204862788</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:02</when></TimeStamp>
+<when>2017-12-0T  10:59:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>evanson</name>
@@ -223,7 +223,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:54:11</when></TimeStamp>
+<when>2017-12-0T  10:54:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>sirocco_2.4o</name>
@@ -231,7 +231,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>frank</name>
@@ -239,7 +239,7 @@
 <Point>
 <coordinates>34.81278321992516, 32.17026748685567</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:50</when></TimeStamp>
+<when>2017-12-0T  10:58:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -247,7 +247,7 @@
 <Point>
 <coordinates>34.811406143585245, 32.17079804250259</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:44</when></TimeStamp>
+<when>2017-12-0T  10:50:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>oved-main_2EX</name>
@@ -255,7 +255,7 @@
 <Point>
 <coordinates>34.81092582224991, 32.16988410573102</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:59</when></TimeStamp>
+<when>2017-12-0T  10:50:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -263,7 +263,7 @@
 <Point>
 <coordinates>34.813514176763185, 32.17010132675571</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:02</when></TimeStamp>
+<when>2017-12-0T  10:58:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Volvo247</name>
@@ -271,7 +271,7 @@
 <Point>
 <coordinates>34.814448298318844, 32.172209259560766</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:14</when></TimeStamp>
+<when>2017-12-0T  10:49:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>mika1</name>
@@ -279,7 +279,7 @@
 <Point>
 <coordinates>34.811600945951724, 32.17117720998362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:38</when></TimeStamp>
+<when>2017-12-0T  10:50:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ter123</name>
@@ -287,7 +287,7 @@
 <Point>
 <coordinates>34.812577158369976, 32.1704760444708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:38</when></TimeStamp>
+<when>2017-12-0T  11:00:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>MNP_HOME_2.4GHz_1</name>
@@ -295,7 +295,7 @@
 <Point>
 <coordinates>34.81350325265134, 32.17106789784238</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:20</when></TimeStamp>
+<when>2017-12-0T  10:58:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ter123</name>
@@ -303,7 +303,7 @@
 <Point>
 <coordinates>34.813533118254576, 32.17024204862788</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:02</when></TimeStamp>
+<when>2017-12-0T  10:59:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>nina</name>
@@ -311,7 +311,7 @@
 <Point>
 <coordinates>34.81323889640528, 32.16955478439471</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:50</when></TimeStamp>
+<when>2017-12-0T  10:57:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Beni</name>
@@ -319,7 +319,7 @@
 <Point>
 <coordinates>34.81363414318978, 32.17081392063111</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:14</when></TimeStamp>
+<when>2017-12-0T  10:58:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Neeman2.4</name>
@@ -327,7 +327,7 @@
 <Point>
 <coordinates>34.81092582224991, 32.16988410573102</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:59</when></TimeStamp>
+<when>2017-12-0T  10:50:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>test012</name>
@@ -335,7 +335,7 @@
 <Point>
 <coordinates>34.81350325265134, 32.17106789784238</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:20</when></TimeStamp>
+<when>2017-12-0T  10:58:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -343,7 +343,7 @@
 <Point>
 <coordinates>34.8130339454378, 32.16957319918231</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:47</when></TimeStamp>
+<when>2017-12-0T  10:57:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>nina</name>
@@ -351,7 +351,7 @@
 <Point>
 <coordinates>34.812206661227876, 32.16956688989755</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:26</when></TimeStamp>
+<when>2017-12-0T  11:00:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>tal</name>
@@ -359,7 +359,7 @@
 <Point>
 <coordinates>34.81330158971711, 32.17107862941617</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:23</when></TimeStamp>
+<when>2017-12-0T  10:58:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>varda</name>
@@ -367,7 +367,7 @@
 <Point>
 <coordinates>34.81226897382831, 32.17254564957508</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:14</when></TimeStamp>
+<when>2017-12-0T  10:50:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>sirocco_2.4o</name>
@@ -375,7 +375,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free</name>
@@ -383,7 +383,7 @@
 <Point>
 <coordinates>34.813514176763185, 32.17010132675571</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:02</when></TimeStamp>
+<when>2017-12-0T  10:58:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>NIPPON_3687</name>
@@ -391,7 +391,7 @@
 <Point>
 <coordinates>34.812693847413286, 32.17248382374769</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:08</when></TimeStamp>
+<when>2017-12-0T  10:50:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Gana7_2GExt</name>
@@ -399,7 +399,7 @@
 <Point>
 <coordinates>34.81130191879183, 32.17061250500982</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:47</when></TimeStamp>
+<when>2017-12-0T  10:50:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free T00C36</name>
@@ -407,7 +407,7 @@
 <Point>
 <coordinates>34.81077184677352, 32.169491346626565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:08</when></TimeStamp>
+<when>2017-12-0T  10:51:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>hot</name>
@@ -415,7 +415,7 @@
 <Point>
 <coordinates>34.81210224701049, 32.169423702689954</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:53</when></TimeStamp>
+<when>2017-12-0T  10:59:53Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>claire</name>
@@ -423,7 +423,7 @@
 <Point>
 <coordinates>34.81275918581424, 32.17092410916535</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:32</when></TimeStamp>
+<when>2017-12-0T  10:59:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -431,7 +431,7 @@
 <Point>
 <coordinates>34.81287279562144, 32.17113625414073</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:50</when></TimeStamp>
+<when>2017-12-0T  11:00:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>LRWN</name>
@@ -439,7 +439,7 @@
 <Point>
 <coordinates>34.81154567298425, 32.16878953124043</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:14</when></TimeStamp>
+<when>2017-12-0T  10:57:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>LRWN</name>
@@ -447,7 +447,7 @@
 <Point>
 <coordinates>34.812397786519114, 32.17005164614875</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:32</when></TimeStamp>
+<when>2017-12-0T  11:00:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HP-Print-C1-Deskjet 4640 series</name>
@@ -455,7 +455,7 @@
 <Point>
 <coordinates>34.810619520712386, 32.169012321650136</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:56:55</when></TimeStamp>
+<when>2017-12-0T  10:56:55Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free 672B84</name>
@@ -463,7 +463,7 @@
 <Point>
 <coordinates>34.81275918581424, 32.17092410916535</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:32</when></TimeStamp>
+<when>2017-12-0T  10:59:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Daizad</name>
@@ -471,7 +471,7 @@
 <Point>
 <coordinates>34.81358034712056, 32.170307583918806</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:05</when></TimeStamp>
+<when>2017-12-0T  10:59:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>love</name>
@@ -479,7 +479,7 @@
 <Point>
 <coordinates>34.814265874458584, 32.17229583572982</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:26</when></TimeStamp>
+<when>2017-12-0T  11:01:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>amnon</name>
@@ -487,7 +487,7 @@
 <Point>
 <coordinates>34.813595071211296, 32.17061830172761</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:11</when></TimeStamp>
+<when>2017-12-0T  10:58:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>oved-main</name>
@@ -495,7 +495,7 @@
 <Point>
 <coordinates>34.810858045280845, 32.169728418133815</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:02</when></TimeStamp>
+<when>2017-12-0T  10:51:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -503,7 +503,7 @@
 <Point>
 <coordinates>34.811904195497384, 32.17191742911665</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:26</when></TimeStamp>
+<when>2017-12-0T  10:50:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIRECT-29-HP OfficeJet Pro 8710</name>
@@ -511,7 +511,7 @@
 <Point>
 <coordinates>34.813408321637986, 32.1695720901851</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:53</when></TimeStamp>
+<when>2017-12-0T  10:57:53Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HP-Print-C1-Deskjet 4640 series</name>
@@ -519,7 +519,7 @@
 <Point>
 <coordinates>34.8106650271149, 32.16917019230133</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:56</when></TimeStamp>
+<when>2017-12-0T  10:55:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -527,7 +527,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:20</when></TimeStamp>
+<when>2017-12-0T  10:55:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>UFI_UF230_B3F</name>
@@ -535,7 +535,7 @@
 <Point>
 <coordinates>34.81268553093009, 32.170654027529686</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:41</when></TimeStamp>
+<when>2017-12-0T  11:00:41Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Talfamily</name>
@@ -543,7 +543,7 @@
 <Point>
 <coordinates>34.81183319930766, 32.16889805537721</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:19</when></TimeStamp>
+<when>2017-12-0T  10:57:19Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>landau</name>
@@ -551,7 +551,7 @@
 <Point>
 <coordinates>34.81230905410695, 32.169817000218366</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:29</when></TimeStamp>
+<when>2017-12-0T  11:00:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>My_Internet</name>
@@ -559,7 +559,7 @@
 <Point>
 <coordinates>34.813595071211296, 32.17061830172761</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:11</when></TimeStamp>
+<when>2017-12-0T  10:58:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>TP-LINK_E3CA</name>
@@ -567,7 +567,7 @@
 <Point>
 <coordinates>34.81278321992516, 32.17026748685567</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:50</when></TimeStamp>
+<when>2017-12-0T  10:58:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>orange</name>
@@ -575,7 +575,7 @@
 <Point>
 <coordinates>34.813514176763185, 32.17010132675571</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:02</when></TimeStamp>
+<when>2017-12-0T  10:58:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -583,7 +583,7 @@
 <Point>
 <coordinates>34.81308167653217, 32.1724135732166</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:02</when></TimeStamp>
+<when>2017-12-0T  10:50:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -591,7 +591,7 @@
 <Point>
 <coordinates>34.81291470608912, 32.17244003231061</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:05</when></TimeStamp>
+<when>2017-12-0T  10:50:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>love</name>
@@ -599,7 +599,7 @@
 <Point>
 <coordinates>34.81436692415887, 32.172250875103074</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:29</when></TimeStamp>
+<when>2017-12-0T  10:49:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Alpha125</name>
@@ -607,7 +607,7 @@
 <Point>
 <coordinates>34.81077184677352, 32.169491346626565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:08</when></TimeStamp>
+<when>2017-12-0T  10:51:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>LRWN</name>
@@ -615,7 +615,7 @@
 <Point>
 <coordinates>34.81078259065756, 32.168750227662805</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:05</when></TimeStamp>
+<when>2017-12-0T  10:57:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Fuck Off Yourself</name>
@@ -623,7 +623,7 @@
 <Point>
 <coordinates>34.81201044802282, 32.16927107246911</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:26</when></TimeStamp>
+<when>2017-12-0T  10:57:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Jamcandown</name>
@@ -631,7 +631,7 @@
 <Point>
 <coordinates>34.8106650271149, 32.16917019230133</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:50</when></TimeStamp>
+<when>2017-12-0T  10:55:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIRECT-1C-HP DeskJet 3830 series</name>
@@ -639,7 +639,7 @@
 <Point>
 <coordinates>34.812198841457004, 32.16964553962474</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:50</when></TimeStamp>
+<when>2017-12-0T  10:59:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIR-825-4f83</name>
@@ -647,7 +647,7 @@
 <Point>
 <coordinates>34.813008839731566, 32.17221891605429</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:05</when></TimeStamp>
+<when>2017-12-0T  11:01:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIR-825-4f83</name>
@@ -655,7 +655,7 @@
 <Point>
 <coordinates>34.812838021973164, 32.17104344764023</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:32</when></TimeStamp>
+<when>2017-12-0T  10:58:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>edimax_2.4G_ruty</name>
@@ -663,7 +663,7 @@
 <Point>
 <coordinates>34.8106650271149, 32.16917019230133</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:56</when></TimeStamp>
+<when>2017-12-0T  10:55:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -671,7 +671,7 @@
 <Point>
 <coordinates>34.8123924291015, 32.17009177038523</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:44</when></TimeStamp>
+<when>2017-12-0T  10:59:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>nurit</name>
@@ -679,7 +679,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>KaymeraDev</name>
@@ -687,7 +687,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:53:11</when></TimeStamp>
+<when>2017-12-0T  10:53:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-F028</name>
@@ -695,7 +695,7 @@
 <Point>
 <coordinates>34.81356387819144, 32.17042884309843</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:08</when></TimeStamp>
+<when>2017-12-0T  10:58:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Jamcanup</name>
@@ -703,7 +703,7 @@
 <Point>
 <coordinates>34.8106650271149, 32.16917019230133</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:50</when></TimeStamp>
+<when>2017-12-0T  10:55:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>geller</name>
@@ -711,7 +711,7 @@
 <Point>
 <coordinates>34.8123924291015, 32.17009177038523</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:44</when></TimeStamp>
+<when>2017-12-0T  10:59:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Oded 2.4Ghz</name>
@@ -719,7 +719,7 @@
 <Point>
 <coordinates>34.812966284830594, 32.17178366806458</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:59</when></TimeStamp>
+<when>2017-12-0T  11:00:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTFiber-400D</name>
@@ -727,7 +727,7 @@
 <Point>
 <coordinates>34.81174537287164, 32.16883769901991</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:17</when></TimeStamp>
+<when>2017-12-0T  10:57:17Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>BezeqFree</name>
@@ -735,7 +735,7 @@
 <Point>
 <coordinates>34.8123924291015, 32.17009177038523</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:44</when></TimeStamp>
+<when>2017-12-0T  10:59:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX111</name>
@@ -743,7 +743,7 @@
 <Point>
 <coordinates>34.81129910090613, 32.16875525343879</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:11</when></TimeStamp>
+<when>2017-12-0T  10:57:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Helen.</name>
@@ -751,7 +751,7 @@
 <Point>
 <coordinates>34.812042356198646, 32.17229408710547</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:20</when></TimeStamp>
+<when>2017-12-0T  10:50:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>stephane</name>
@@ -759,7 +759,7 @@
 <Point>
 <coordinates>34.811098338566204, 32.17023774400125</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:53</when></TimeStamp>
+<when>2017-12-0T  10:50:53Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>evanson</name>
@@ -767,7 +767,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:56</when></TimeStamp>
+<when>2017-12-0T  10:51:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Oded 5Ghz</name>
@@ -775,7 +775,7 @@
 <Point>
 <coordinates>34.81268528377859, 32.17070417266147</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:38</when></TimeStamp>
+<when>2017-12-0T  10:58:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-651B</name>
@@ -783,7 +783,7 @@
 <Point>
 <coordinates>34.81191817927795, 32.169027594463216</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:59</when></TimeStamp>
+<when>2017-12-0T  10:59:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Beni</name>
@@ -791,7 +791,7 @@
 <Point>
 <coordinates>34.813595071211296, 32.17061830172761</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:11</when></TimeStamp>
+<when>2017-12-0T  10:58:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>tal2</name>
@@ -799,7 +799,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ter123</name>
@@ -807,7 +807,7 @@
 <Point>
 <coordinates>34.81249258786661, 32.170302961492325</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:41</when></TimeStamp>
+<when>2017-12-0T  10:59:41Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>varda</name>
@@ -815,7 +815,7 @@
 <Point>
 <coordinates>34.811768201385796, 32.17154067297358</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:32</when></TimeStamp>
+<when>2017-12-0T  10:50:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-651B</name>
@@ -823,7 +823,7 @@
 <Point>
 <coordinates>34.812397786519114, 32.17005164614875</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:32</when></TimeStamp>
+<when>2017-12-0T  11:00:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>dlink</name>
@@ -831,7 +831,7 @@
 <Point>
 <coordinates>34.813514176763185, 32.17010132675571</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:02</when></TimeStamp>
+<when>2017-12-0T  10:58:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>orange</name>
@@ -839,7 +839,7 @@
 <Point>
 <coordinates>34.813537076757704, 32.17025406565039</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:05</when></TimeStamp>
+<when>2017-12-0T  10:58:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -847,7 +847,7 @@
 <Point>
 <coordinates>34.81293937528084, 32.171111089076454</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:29</when></TimeStamp>
+<when>2017-12-0T  10:58:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIR-825-4f83</name>
@@ -855,7 +855,7 @@
 <Point>
 <coordinates>34.81314408162315, 32.17246213445027</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:11</when></TimeStamp>
+<when>2017-12-0T  11:01:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>UFI_UF230_B3F</name>
@@ -863,7 +863,7 @@
 <Point>
 <coordinates>34.812577158369976, 32.1704760444708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:38</when></TimeStamp>
+<when>2017-12-0T  11:00:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Oded 5Ghz</name>
@@ -871,7 +871,7 @@
 <Point>
 <coordinates>34.812966284830594, 32.17178366806458</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:59</when></TimeStamp>
+<when>2017-12-0T  11:00:59Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>LRWN</name>
@@ -879,7 +879,7 @@
 <Point>
 <coordinates>34.81183319930766, 32.16889805537721</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:19</when></TimeStamp>
+<when>2017-12-0T  10:57:19Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>BezeqNGN_001489_2.4GHz_1</name>
@@ -887,7 +887,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:54:23</when></TimeStamp>
+<when>2017-12-0T  10:54:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIRECT-75-HP DeskJet 4670 series</name>
@@ -895,7 +895,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>ELCHARAR_2.4</name>
@@ -903,7 +903,7 @@
 <Point>
 <coordinates>34.81077184677352, 32.169491346626565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:08</when></TimeStamp>
+<when>2017-12-0T  10:51:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Baruch_2.4</name>
@@ -911,7 +911,7 @@
 <Point>
 <coordinates>34.81367243117691, 32.17094894909989</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:14</when></TimeStamp>
+<when>2017-12-0T  10:59:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Orit</name>
@@ -919,7 +919,7 @@
 <Point>
 <coordinates>34.81387685906902, 32.17230733807558</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:47</when></TimeStamp>
+<when>2017-12-0T  10:49:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>UFI_UF230_B3F</name>
@@ -927,7 +927,7 @@
 <Point>
 <coordinates>34.81210224701049, 32.169423702689954</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:53</when></TimeStamp>
+<when>2017-12-0T  10:59:53Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-8156</name>
@@ -935,7 +935,7 @@
 <Point>
 <coordinates>34.81193255078027, 32.16909112707448</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:23</when></TimeStamp>
+<when>2017-12-0T  10:57:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>INGENEO</name>
@@ -943,7 +943,7 @@
 <Point>
 <coordinates>34.81061687133246, 32.16878253500298</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:02</when></TimeStamp>
+<when>2017-12-0T  10:57:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -951,7 +951,7 @@
 <Point>
 <coordinates>34.81407112131554, 32.17232233794856</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:23</when></TimeStamp>
+<when>2017-12-0T  11:01:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Oded 2.4Ghz</name>
@@ -959,7 +959,7 @@
 <Point>
 <coordinates>34.81268528377859, 32.17070417266147</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:38</when></TimeStamp>
+<when>2017-12-0T  10:58:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Candan</name>
@@ -967,7 +967,7 @@
 <Point>
 <coordinates>34.81061687133246, 32.16878253500298</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:02</when></TimeStamp>
+<when>2017-12-0T  10:57:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIR-825-4f83</name>
@@ -975,7 +975,7 @@
 <Point>
 <coordinates>34.81291470608912, 32.17244003231061</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:05</when></TimeStamp>
+<when>2017-12-0T  10:50:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>LRWN</name>
@@ -983,7 +983,7 @@
 <Point>
 <coordinates>34.81174537287164, 32.16883769901991</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:17</when></TimeStamp>
+<when>2017-12-0T  10:57:17Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>devolo-0f4</name>
@@ -991,7 +991,7 @@
 <Point>
 <coordinates>34.81099874038432, 32.170053389171805</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:56</when></TimeStamp>
+<when>2017-12-0T  10:50:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>dlink-A09C</name>
@@ -999,7 +999,7 @@
 <Point>
 <coordinates>34.81074036189685, 32.16939849690679</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:11</when></TimeStamp>
+<when>2017-12-0T  10:51:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Chakir</name>
@@ -1007,7 +1007,7 @@
 <Point>
 <coordinates>34.814036899369874, 32.17228483399432</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:44</when></TimeStamp>
+<when>2017-12-0T  10:49:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>edimax_5G_A9241C</name>
@@ -1015,7 +1015,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:14</when></TimeStamp>
+<when>2017-12-0T  10:51:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>hot</name>
@@ -1023,7 +1023,7 @@
 <Point>
 <coordinates>34.812577158369976, 32.1704760444708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:38</when></TimeStamp>
+<when>2017-12-0T  11:00:38Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free T00C36</name>
@@ -1031,7 +1031,7 @@
 <Point>
 <coordinates>34.81208525807686, 32.16943682725201</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:29</when></TimeStamp>
+<when>2017-12-0T  10:57:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>yotam17</name>
@@ -1039,7 +1039,7 @@
 <Point>
 <coordinates>34.813608312741444, 32.17050412989869</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:08</when></TimeStamp>
+<when>2017-12-0T  10:59:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -1047,7 +1047,7 @@
 <Point>
 <coordinates>34.810858045280845, 32.169728418133815</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:02</when></TimeStamp>
+<when>2017-12-0T  10:51:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>My_Internet</name>
@@ -1055,7 +1055,7 @@
 <Point>
 <coordinates>34.81350325265134, 32.17106789784238</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:20</when></TimeStamp>
+<when>2017-12-0T  10:58:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>  InnovationEndeavors</name>
@@ -1063,7 +1063,7 @@
 <Point>
 <coordinates>34.81174537287164, 32.16883769901991</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:17</when></TimeStamp>
+<when>2017-12-0T  10:57:17Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Guymic</name>
@@ -1071,7 +1071,7 @@
 <Point>
 <coordinates>34.811205413681165, 32.1704220061369</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:50</when></TimeStamp>
+<when>2017-12-0T  10:50:50Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>spielman</name>
@@ -1079,7 +1079,7 @@
 <Point>
 <coordinates>34.81068174685835, 32.169212309411726</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:55:47</when></TimeStamp>
+<when>2017-12-0T  10:55:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>KaymeraDev</name>
@@ -1087,7 +1087,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:53:44</when></TimeStamp>
+<when>2017-12-0T  10:53:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ben Ami_2.4</name>
@@ -1095,7 +1095,7 @@
 <Point>
 <coordinates>34.8118405837912, 32.171728186062275</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:29</when></TimeStamp>
+<when>2017-12-0T  10:50:29Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Is</name>
@@ -1103,7 +1103,7 @@
 <Point>
 <coordinates>34.813595071211296, 32.17061830172761</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:11</when></TimeStamp>
+<when>2017-12-0T  10:58:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Mevohot_1</name>
@@ -1111,7 +1111,7 @@
 <Point>
 <coordinates>34.81336124587249, 32.172382685741084</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:56</when></TimeStamp>
+<when>2017-12-0T  10:49:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>spielman</name>
@@ -1119,7 +1119,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:53:47</when></TimeStamp>
+<when>2017-12-0T  10:53:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Partner</name>
@@ -1127,7 +1127,7 @@
 <Point>
 <coordinates>34.81193255078027, 32.16909112707448</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:23</when></TimeStamp>
+<when>2017-12-0T  10:57:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Yotam _ work _ room</name>
@@ -1135,7 +1135,7 @@
 <Point>
 <coordinates>34.81330158971711, 32.17107862941617</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:23</when></TimeStamp>
+<when>2017-12-0T  10:58:23Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX</name>
@@ -1143,7 +1143,7 @@
 <Point>
 <coordinates>34.81363414318978, 32.17081392063111</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:14</when></TimeStamp>
+<when>2017-12-0T  10:58:14Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>WR</name>
@@ -1151,7 +1151,7 @@
 <Point>
 <coordinates>34.8119993015223, 32.16921657591955</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:56</when></TimeStamp>
+<when>2017-12-0T  10:59:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>frank</name>
@@ -1159,7 +1159,7 @@
 <Point>
 <coordinates>34.81245570309557, 32.17019624834832</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:34</when></TimeStamp>
+<when>2017-12-0T  11:00:34Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Efrat</name>
@@ -1167,7 +1167,7 @@
 <Point>
 <coordinates>34.81446401702757, 32.17218268216534</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:49:08</when></TimeStamp>
+<when>2017-12-0T  10:49:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>iFOREX</name>
@@ -1175,7 +1175,7 @@
 <Point>
 <coordinates>34.81057058716543, 32.168881406149175</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:56:58</when></TimeStamp>
+<when>2017-12-0T  10:56:58Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Liliup</name>
@@ -1183,7 +1183,7 @@
 <Point>
 <coordinates>34.81077184677352, 32.169491346626565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:08</when></TimeStamp>
+<when>2017-12-0T  10:51:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>tal</name>
@@ -1191,7 +1191,7 @@
 <Point>
 <coordinates>34.813083395926654, 32.17110086640514</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:26</when></TimeStamp>
+<when>2017-12-0T  10:58:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>oved-main</name>
@@ -1199,7 +1199,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:54:41</when></TimeStamp>
+<when>2017-12-0T  10:54:41Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>yotam17</name>
@@ -1207,7 +1207,7 @@
 <Point>
 <coordinates>34.81334830357392, 32.1711226542225</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:59:20</when></TimeStamp>
+<when>2017-12-0T  10:59:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HOTBOX-4D4E</name>
@@ -1215,7 +1215,7 @@
 <Point>
 <coordinates>34.81099874038432, 32.170053389171805</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:50:56</when></TimeStamp>
+<when>2017-12-0T  10:50:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Mheta_AP</name>
@@ -1223,7 +1223,7 @@
 <Point>
 <coordinates>34.81201044802282, 32.16927107246911</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:26</when></TimeStamp>
+<when>2017-12-0T  10:57:26Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free GA32E3</name>
@@ -1231,7 +1231,7 @@
 <Point>
 <coordinates>34.81383247774181, 32.172359339129684</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:01:20</when></TimeStamp>
+<when>2017-12-0T  11:01:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>spielman</name>
@@ -1239,7 +1239,7 @@
 <Point>
 <coordinates>34.81072496254775, 32.16935940800852</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:51:20</when></TimeStamp>
+<when>2017-12-0T  10:51:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Candan</name>
@@ -1247,7 +1247,7 @@
 <Point>
 <coordinates>34.81347187978352, 32.1697212488476</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:56</when></TimeStamp>
+<when>2017-12-0T  10:57:56Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Oded 5Ghz</name>
@@ -1255,7 +1255,7 @@
 <Point>
 <coordinates>34.812838021973164, 32.17104344764023</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:58:32</when></TimeStamp>
+<when>2017-12-0T  10:58:32Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HP-Print-AF-Officejet Pro 6830</name>
@@ -1263,7 +1263,7 @@
 <Point>
 <coordinates>34.81282029540289, 32.17095455549593</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:47</when></TimeStamp>
+<when>2017-12-0T  11:00:47Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Laufer-wifi</name>
@@ -1271,7 +1271,7 @@
 <Point>
 <coordinates>34.812767664505046, 32.17081209129427</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 11:00:44</when></TimeStamp>
+<when>2017-12-0T  11:00:44Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIRECT-a8-HP M477 LaserJet</name>
@@ -1279,7 +1279,7 @@
 <Point>
 <coordinates>34.81061687133246, 32.16878253500298</coordinates></Point>
 <TimeStamp>
-<when>2017-12-01 10:57:02</when></TimeStamp>
+<when>2017-12-0T  10:57:02Z </when></TimeStamp>
 </Placemark>
 </Folder>
 <Folder>
@@ -1289,7 +1289,7 @@
 <Point>
 <coordinates>35.21137457, 32.10487501</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:05</when></TimeStamp>
+<when>2017-12-0T  08:56:05Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1297,7 +1297,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1305,7 +1305,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1313,7 +1313,7 @@
 <Point>
 <coordinates>35.21044203, 32.10490203</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:36</when></TimeStamp>
+<when>2017-12-0T  08:53:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free</name>
@@ -1321,7 +1321,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1329,7 +1329,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>shapedo</name>
@@ -1337,7 +1337,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1345,7 +1345,7 @@
 <Point>
 <coordinates>35.21150642, 32.10434812</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:51</when></TimeStamp>
+<when>2017-12-0T  08:55:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1353,7 +1353,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1361,7 +1361,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1369,7 +1369,7 @@
 <Point>
 <coordinates>35.20998301, 32.10212708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:51</when></TimeStamp>
+<when>2017-12-0T  08:54:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1377,7 +1377,7 @@
 <Point>
 <coordinates>35.21158147, 32.10450422</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:54</when></TimeStamp>
+<when>2017-12-0T  08:55:54Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1385,7 +1385,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>2.4V1</name>
@@ -1393,7 +1393,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name></name>
@@ -1401,7 +1401,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Guest</name>
@@ -1409,7 +1409,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1417,7 +1417,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1425,7 +1425,7 @@
 <Point>
 <coordinates>35.20878096, 32.10359721</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:12</when></TimeStamp>
+<when>2017-12-0T  08:54:12Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1433,7 +1433,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1441,7 +1441,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1449,7 +1449,7 @@
 <Point>
 <coordinates>35.20932755, 32.10430866</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:57</when></TimeStamp>
+<when>2017-12-0T  08:53:57Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1457,7 +1457,7 @@
 <Point>
 <coordinates>35.20871988, 32.10301827</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:24</when></TimeStamp>
+<when>2017-12-0T  08:54:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HelpDesk</name>
@@ -1465,7 +1465,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>HelpDesk</name>
@@ -1473,7 +1473,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1481,7 +1481,7 @@
 <Point>
 <coordinates>35.21040928, 32.10392655</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:33</when></TimeStamp>
+<when>2017-12-0T  08:55:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1489,7 +1489,7 @@
 <Point>
 <coordinates>35.20874462, 32.10333565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:18</when></TimeStamp>
+<when>2017-12-0T  08:54:18Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1497,7 +1497,7 @@
 <Point>
 <coordinates>35.20871988, 32.10301827</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:24</when></TimeStamp>
+<when>2017-12-0T  08:54:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1505,7 +1505,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>AUC_4_2_24</name>
@@ -1513,7 +1513,7 @@
 <Point>
 <coordinates>35.21101715, 32.10415215</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:42</when></TimeStamp>
+<when>2017-12-0T  08:55:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1521,7 +1521,7 @@
 <Point>
 <coordinates>35.20874462, 32.10333565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:18</when></TimeStamp>
+<when>2017-12-0T  08:54:18Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>DIRECT-B1-HP DeskJet 3830 series</name>
@@ -1529,7 +1529,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>CliClap</name>
@@ -1537,7 +1537,7 @@
 <Point>
 <coordinates>35.20960715, 32.10448173</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:51</when></TimeStamp>
+<when>2017-12-0T  08:53:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1545,7 +1545,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1553,7 +1553,7 @@
 <Point>
 <coordinates>35.20883622, 32.10376365</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:09</when></TimeStamp>
+<when>2017-12-0T  08:54:09Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1561,7 +1561,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1569,7 +1569,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1577,7 +1577,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>036518749</name>
@@ -1585,7 +1585,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1593,7 +1593,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1601,7 +1601,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1609,7 +1609,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1617,7 +1617,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>outsense</name>
@@ -1625,7 +1625,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>magneto</name>
@@ -1633,7 +1633,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>036518749</name>
@@ -1641,7 +1641,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1649,7 +1649,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1657,7 +1657,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>IT-MNG</name>
@@ -1665,7 +1665,7 @@
 <Point>
 <coordinates>35.2115156, 32.10476714</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:00</when></TimeStamp>
+<when>2017-12-0T  08:56:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1673,7 +1673,7 @@
 <Point>
 <coordinates>35.21134308, 32.10487307</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:08</when></TimeStamp>
+<when>2017-12-0T  08:53:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1681,7 +1681,7 @@
 <Point>
 <coordinates>35.20946023, 32.10440239</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:54</when></TimeStamp>
+<when>2017-12-0T  08:53:54Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1689,7 +1689,7 @@
 <Point>
 <coordinates>35.20979335, 32.10330416</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:20</when></TimeStamp>
+<when>2017-12-0T  08:55:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name></name>
@@ -1697,7 +1697,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1705,7 +1705,7 @@
 <Point>
 <coordinates>35.20875946, 32.10346795</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:15</when></TimeStamp>
+<when>2017-12-0T  08:54:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1713,7 +1713,7 @@
 <Point>
 <coordinates>35.21091349, 32.10412387</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:40</when></TimeStamp>
+<when>2017-12-0T  08:55:40Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1721,7 +1721,7 @@
 <Point>
 <coordinates>35.21135337, 32.10488619</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:08</when></TimeStamp>
+<when>2017-12-0T  08:56:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1729,7 +1729,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1737,7 +1737,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1745,7 +1745,7 @@
 <Point>
 <coordinates>35.21091349, 32.10412387</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:40</when></TimeStamp>
+<when>2017-12-0T  08:55:40Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1753,7 +1753,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1761,7 +1761,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1769,7 +1769,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1777,7 +1777,7 @@
 <Point>
 <coordinates>35.20998301, 32.10212708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:51</when></TimeStamp>
+<when>2017-12-0T  08:54:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1785,7 +1785,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Afikim_Wifi</name>
@@ -1793,7 +1793,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1801,7 +1801,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>KCG-ADSL</name>
@@ -1809,7 +1809,7 @@
 <Point>
 <coordinates>35.20983303, 32.10290524</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:11</when></TimeStamp>
+<when>2017-12-0T  08:55:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1817,7 +1817,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1825,7 +1825,7 @@
 <Point>
 <coordinates>35.21107852, 32.1050222</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:24</when></TimeStamp>
+<when>2017-12-0T  08:53:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Guest</name>
@@ -1833,7 +1833,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1841,7 +1841,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1849,7 +1849,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1857,7 +1857,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1865,7 +1865,7 @@
 <Point>
 <coordinates>35.20960715, 32.10448173</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:51</when></TimeStamp>
+<when>2017-12-0T  08:53:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name></name>
@@ -1873,7 +1873,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1881,7 +1881,7 @@
 <Point>
 <coordinates>35.20912829, 32.10212198</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:39</when></TimeStamp>
+<when>2017-12-0T  08:54:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>TP-LINK_ADD150</name>
@@ -1889,7 +1889,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>lab_6.1.3</name>
@@ -1897,7 +1897,7 @@
 <Point>
 <coordinates>35.20912829, 32.10212198</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:39</when></TimeStamp>
+<when>2017-12-0T  08:54:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1905,7 +1905,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1913,7 +1913,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1921,7 +1921,7 @@
 <Point>
 <coordinates>35.21040928, 32.10392655</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:33</when></TimeStamp>
+<when>2017-12-0T  08:55:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1929,7 +1929,7 @@
 <Point>
 <coordinates>35.20960153, 32.10196459</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:45</when></TimeStamp>
+<when>2017-12-0T  08:54:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>TP-LINK_ADD150</name>
@@ -1937,7 +1937,7 @@
 <Point>
 <coordinates>35.20975804, 32.10457483</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:48</when></TimeStamp>
+<when>2017-12-0T  08:53:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1945,7 +1945,7 @@
 <Point>
 <coordinates>35.20983303, 32.10290524</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:11</when></TimeStamp>
+<when>2017-12-0T  08:55:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>outsense</name>
@@ -1953,7 +1953,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1961,7 +1961,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1969,7 +1969,7 @@
 <Point>
 <coordinates>35.21135337, 32.10488619</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:08</when></TimeStamp>
+<when>2017-12-0T  08:56:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -1977,7 +1977,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>EVE</name>
@@ -1985,7 +1985,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>KCG-ADSL</name>
@@ -1993,7 +1993,7 @@
 <Point>
 <coordinates>35.21003281, 32.10226153</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:54</when></TimeStamp>
+<when>2017-12-0T  08:54:54Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2001,7 +2001,7 @@
 <Point>
 <coordinates>35.20975804, 32.10457483</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:48</when></TimeStamp>
+<when>2017-12-0T  08:53:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2009,7 +2009,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>yosh</name>
@@ -2017,7 +2017,7 @@
 <Point>
 <coordinates>35.21150642, 32.10434812</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:51</when></TimeStamp>
+<when>2017-12-0T  08:55:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>incentive2</name>
@@ -2025,7 +2025,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2033,7 +2033,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2041,7 +2041,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2049,7 +2049,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>AUC_4_2_24</name>
@@ -2057,7 +2057,7 @@
 <Point>
 <coordinates>35.20992695, 32.10357832</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:25</when></TimeStamp>
+<when>2017-12-0T  08:55:25Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2065,7 +2065,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2073,7 +2073,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2081,7 +2081,7 @@
 <Point>
 <coordinates>35.21040928, 32.10392655</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:33</when></TimeStamp>
+<when>2017-12-0T  08:55:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>paysday</name>
@@ -2089,7 +2089,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2097,7 +2097,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2105,7 +2105,7 @@
 <Point>
 <coordinates>35.20992695, 32.10357832</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:25</when></TimeStamp>
+<when>2017-12-0T  08:55:25Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2113,7 +2113,7 @@
 <Point>
 <coordinates>35.21092655, 32.10503208</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:27</when></TimeStamp>
+<when>2017-12-0T  08:53:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>IT-MNG</name>
@@ -2121,7 +2121,7 @@
 <Point>
 <coordinates>35.2114539, 32.10481492</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:02</when></TimeStamp>
+<when>2017-12-0T  08:56:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2129,7 +2129,7 @@
 <Point>
 <coordinates>35.21135337, 32.10488619</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:08</when></TimeStamp>
+<when>2017-12-0T  08:56:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2137,7 +2137,7 @@
 <Point>
 <coordinates>35.21118813, 32.10418089</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:45</when></TimeStamp>
+<when>2017-12-0T  08:55:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Guest</name>
@@ -2145,7 +2145,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2153,7 +2153,7 @@
 <Point>
 <coordinates>35.20983303, 32.10290524</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:11</when></TimeStamp>
+<when>2017-12-0T  08:55:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>shapedo</name>
@@ -2161,7 +2161,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>EVE</name>
@@ -2169,7 +2169,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2177,7 +2177,7 @@
 <Point>
 <coordinates>35.21019984, 32.10379261</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:30</when></TimeStamp>
+<when>2017-12-0T  08:55:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>sinusafe</name>
@@ -2185,7 +2185,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2193,7 +2193,7 @@
 <Point>
 <coordinates>35.20892354, 32.10391893</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:06</when></TimeStamp>
+<when>2017-12-0T  08:54:06Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>outsense</name>
@@ -2201,7 +2201,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2209,7 +2209,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2217,7 +2217,7 @@
 <Point>
 <coordinates>35.20998301, 32.10212708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:51</when></TimeStamp>
+<when>2017-12-0T  08:54:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2225,7 +2225,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name></name>
@@ -2233,7 +2233,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2241,7 +2241,7 @@
 <Point>
 <coordinates>35.21060853, 32.10495375</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:33</when></TimeStamp>
+<when>2017-12-0T  08:53:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2249,7 +2249,7 @@
 <Point>
 <coordinates>35.20935702, 32.1020322</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:42</when></TimeStamp>
+<when>2017-12-0T  08:54:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2257,7 +2257,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2265,7 +2265,7 @@
 <Point>
 <coordinates>35.21101715, 32.10415215</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:42</when></TimeStamp>
+<when>2017-12-0T  08:55:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2273,7 +2273,7 @@
 <Point>
 <coordinates>35.21064312, 32.10403138</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:36</when></TimeStamp>
+<when>2017-12-0T  08:55:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2281,7 +2281,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2289,7 +2289,7 @@
 <Point>
 <coordinates>35.21091349, 32.10412387</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:40</when></TimeStamp>
+<when>2017-12-0T  08:55:40Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2297,7 +2297,7 @@
 <Point>
 <coordinates>35.20912829, 32.10212198</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:39</when></TimeStamp>
+<when>2017-12-0T  08:54:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2305,7 +2305,7 @@
 <Point>
 <coordinates>35.20979335, 32.10330416</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:20</when></TimeStamp>
+<when>2017-12-0T  08:55:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2313,7 +2313,7 @@
 <Point>
 <coordinates>35.21044203, 32.10490203</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:36</when></TimeStamp>
+<when>2017-12-0T  08:53:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2321,7 +2321,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>yosh</name>
@@ -2329,7 +2329,7 @@
 <Point>
 <coordinates>35.2098381, 32.10199722</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:48</when></TimeStamp>
+<when>2017-12-0T  08:54:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2337,7 +2337,7 @@
 <Point>
 <coordinates>35.20979335, 32.10330416</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:20</when></TimeStamp>
+<when>2017-12-0T  08:55:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2345,7 +2345,7 @@
 <Point>
 <coordinates>35.21044203, 32.10490203</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:36</when></TimeStamp>
+<when>2017-12-0T  08:53:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2353,7 +2353,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2361,7 +2361,7 @@
 <Point>
 <coordinates>35.2115156, 32.10476714</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:00</when></TimeStamp>
+<when>2017-12-0T  08:56:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2369,7 +2369,7 @@
 <Point>
 <coordinates>35.20871988, 32.10301827</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:24</when></TimeStamp>
+<when>2017-12-0T  08:54:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>artsim</name>
@@ -2377,7 +2377,7 @@
 <Point>
 <coordinates>35.20946023, 32.10440239</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:54</when></TimeStamp>
+<when>2017-12-0T  08:53:54Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>paysday</name>
@@ -2385,7 +2385,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2393,7 +2393,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2401,7 +2401,7 @@
 <Point>
 <coordinates>35.20871988, 32.10301827</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:24</when></TimeStamp>
+<when>2017-12-0T  08:54:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2409,7 +2409,7 @@
 <Point>
 <coordinates>35.2114539, 32.10481492</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:56:02</when></TimeStamp>
+<when>2017-12-0T  08:56:02Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2417,7 +2417,7 @@
 <Point>
 <coordinates>35.20979335, 32.10330416</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:20</when></TimeStamp>
+<when>2017-12-0T  08:55:20Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2425,7 +2425,7 @@
 <Point>
 <coordinates>35.21107852, 32.1050222</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:24</when></TimeStamp>
+<when>2017-12-0T  08:53:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2433,7 +2433,7 @@
 <Point>
 <coordinates>35.20935702, 32.1020322</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:42</when></TimeStamp>
+<when>2017-12-0T  08:54:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2441,7 +2441,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2449,7 +2449,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2457,7 +2457,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2465,7 +2465,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2473,7 +2473,7 @@
 <Point>
 <coordinates>35.21134308, 32.10487307</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:08</when></TimeStamp>
+<when>2017-12-0T  08:53:08Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2481,7 +2481,7 @@
 <Point>
 <coordinates>35.21091349, 32.10412387</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:40</when></TimeStamp>
+<when>2017-12-0T  08:55:40Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2489,7 +2489,7 @@
 <Point>
 <coordinates>35.20871988, 32.10301827</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:24</when></TimeStamp>
+<when>2017-12-0T  08:54:24Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2497,7 +2497,7 @@
 <Point>
 <coordinates>35.20902709, 32.10406321</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:03</when></TimeStamp>
+<when>2017-12-0T  08:54:03Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>yosh</name>
@@ -2505,7 +2505,7 @@
 <Point>
 <coordinates>35.21044203, 32.10490203</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:36</when></TimeStamp>
+<when>2017-12-0T  08:53:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2513,7 +2513,7 @@
 <Point>
 <coordinates>35.20883622, 32.10376365</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:09</when></TimeStamp>
+<when>2017-12-0T  08:54:09Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2521,7 +2521,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2529,7 +2529,7 @@
 <Point>
 <coordinates>35.20883622, 32.10376365</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:09</when></TimeStamp>
+<when>2017-12-0T  08:54:09Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2537,7 +2537,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2545,7 +2545,7 @@
 <Point>
 <coordinates>35.21007474, 32.10475343</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:42</when></TimeStamp>
+<when>2017-12-0T  08:53:42Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2553,7 +2553,7 @@
 <Point>
 <coordinates>35.20874462, 32.10333565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:18</when></TimeStamp>
+<when>2017-12-0T  08:54:18Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>CliClap</name>
@@ -2561,7 +2561,7 @@
 <Point>
 <coordinates>35.20875946, 32.10346795</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:15</when></TimeStamp>
+<when>2017-12-0T  08:54:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2569,7 +2569,7 @@
 <Point>
 <coordinates>35.20946023, 32.10440239</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:54</when></TimeStamp>
+<when>2017-12-0T  08:53:54Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2577,7 +2577,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name></name>
@@ -2585,7 +2585,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2593,7 +2593,7 @@
 <Point>
 <coordinates>35.20990936, 32.10466627</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:45</when></TimeStamp>
+<when>2017-12-0T  08:53:45Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2601,7 +2601,7 @@
 <Point>
 <coordinates>35.20875946, 32.10346795</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:15</when></TimeStamp>
+<when>2017-12-0T  08:54:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2609,7 +2609,7 @@
 <Point>
 <coordinates>35.20884914, 32.10244119</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:33</when></TimeStamp>
+<when>2017-12-0T  08:54:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free</name>
@@ -2617,7 +2617,7 @@
 <Point>
 <coordinates>35.20894955, 32.1022576</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:36</when></TimeStamp>
+<when>2017-12-0T  08:54:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2625,7 +2625,7 @@
 <Point>
 <coordinates>35.20912829, 32.10212198</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:39</when></TimeStamp>
+<when>2017-12-0T  08:54:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2633,7 +2633,7 @@
 <Point>
 <coordinates>35.20978446, 32.10305306</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:15</when></TimeStamp>
+<when>2017-12-0T  08:55:15Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2641,7 +2641,7 @@
 <Point>
 <coordinates>35.20873143, 32.10318952</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:21</when></TimeStamp>
+<when>2017-12-0T  08:54:21Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>KCG-ADSL</name>
@@ -2649,7 +2649,7 @@
 <Point>
 <coordinates>35.21040928, 32.10392655</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:33</when></TimeStamp>
+<when>2017-12-0T  08:55:33Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2657,7 +2657,7 @@
 <Point>
 <coordinates>35.20983303, 32.10290524</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:11</when></TimeStamp>
+<when>2017-12-0T  08:55:11Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2665,7 +2665,7 @@
 <Point>
 <coordinates>35.20883622, 32.10376365</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:09</when></TimeStamp>
+<when>2017-12-0T  08:54:09Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2673,7 +2673,7 @@
 <Point>
 <coordinates>35.20878096, 32.10359721</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:12</when></TimeStamp>
+<when>2017-12-0T  08:54:12Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2681,7 +2681,7 @@
 <Point>
 <coordinates>35.21138319, 32.10423611</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:48</when></TimeStamp>
+<when>2017-12-0T  08:55:48Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2689,7 +2689,7 @@
 <Point>
 <coordinates>35.21150642, 32.10434812</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:51</when></TimeStamp>
+<when>2017-12-0T  08:55:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Bezeq Free</name>
@@ -2697,7 +2697,7 @@
 <Point>
 <coordinates>35.20998301, 32.10212708</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:51</when></TimeStamp>
+<when>2017-12-0T  08:54:51Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2705,7 +2705,7 @@
 <Point>
 <coordinates>35.21025994, 32.1048406</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:39</when></TimeStamp>
+<when>2017-12-0T  08:53:39Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2713,7 +2713,7 @@
 <Point>
 <coordinates>35.20871899, 32.10282362</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:27</when></TimeStamp>
+<when>2017-12-0T  08:54:27Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2721,7 +2721,7 @@
 <Point>
 <coordinates>35.21044203, 32.10490203</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:53:36</when></TimeStamp>
+<when>2017-12-0T  08:53:36Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2729,7 +2729,7 @@
 <Point>
 <coordinates>35.20874462, 32.10333565</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:18</when></TimeStamp>
+<when>2017-12-0T  08:54:18Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>lab_6.1.3</name>
@@ -2737,7 +2737,7 @@
 <Point>
 <coordinates>35.20977295, 32.10314139</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:55:17</when></TimeStamp>
+<when>2017-12-0T  08:55:17Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2745,7 +2745,7 @@
 <Point>
 <coordinates>35.20876629, 32.10263124</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:30</when></TimeStamp>
+<when>2017-12-0T  08:54:30Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2753,7 +2753,7 @@
 <Point>
 <coordinates>35.20917533, 32.10419361</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:00</when></TimeStamp>
+<when>2017-12-0T  08:54:00Z </when></TimeStamp>
 </Placemark>
 <Placemark>
 <name>Ariel_University</name>
@@ -2761,7 +2761,7 @@
 <Point>
 <coordinates>35.20875946, 32.10346795</coordinates></Point>
 <TimeStamp>
-<when>2017-12-03 08:54:15</when></TimeStamp>
+<when>2017-12-0T  08:54:15Z </when></TimeStamp>
 </Placemark>
 </Folder>
 </Document>

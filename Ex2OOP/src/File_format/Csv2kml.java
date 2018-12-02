@@ -67,7 +67,7 @@ public class Csv2kml {
 						"<coordinates>" + geom.getY() + ", " + geom.getX() + "</coordinates>" +
 						"</Point>\n" +
 						"<TimeStamp>\n" + 
-						"<when>" + metaDataElement.getFirstSeen() + "</when>" + 
+						"<when>" + metaDataElement.FirstSeen(metaDataElement.getFirstSeen()) + "</when>" + 
 						"</TimeStamp>\n" +
 						"</Placemark>\n";
 				content.append(kmlElement);
