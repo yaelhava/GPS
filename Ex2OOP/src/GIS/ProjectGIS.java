@@ -12,8 +12,8 @@ import java.util.Set;
 
 public class ProjectGIS implements GIS_project{
 	
-	Set<GIS_layer> set = new HashSet<GIS_layer>();
-	ProjectMetaData pmd;
+	private Set<GIS_layer> set = new HashSet<GIS_layer>();
+	private ProjectMetaData pmd;
 	
 	@Override
 	public boolean add(GIS_layer arg0) {

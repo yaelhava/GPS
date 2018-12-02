@@ -82,7 +82,9 @@ public class LayerGIS implements GIS_layer {
 		return set.toArray(arg0);
 	}
 
-	
+	/**
+	 * @return lmd - the data of the layer
+	 */
 	
 	@Override			
 	public Meta_data get_Meta_data() {
