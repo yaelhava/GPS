@@ -1,39 +1,32 @@
 package File_format;
 
-import java.awt.List;
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
+
 import java.util.Iterator;
-import java.util.LinkedList;
-
-import javax.swing.text.AbstractDocument.Content;
-
 import Algorithms.MultiCSV;
 import GIS.ElementGIS;
-import GIS.GIS_layer;
-import GIS.GIS_project;
 import GIS.LayerGIS;
-import GIS.Meta_data;
 import GIS.ProjectGIS;
 import GIS.metaDataGIS;
 import Geom.ElementGeom;
 
+	/**
+	 * this class changes the format file from csv to kml.
+	 * @author yael hava and naama hartuv
+	 */
+
 public class Csv2kml {
 
-	MultiCSV multiProject;
-	ElementGIS element;
-	LayerGIS layer;
-	StringBuilder content;
+	private ElementGIS element;
+	private LayerGIS layer;
+	private StringBuilder content;
 
+	/**
+	 * changes the format file to kml.
+	 * @param project - the project consist of layers.
+	 * @return - the kml file as a string 
+	 */
 	
 	public StringBuilder exportKmlFile(ProjectGIS project) {
-	//	multiProject = new MultiCSV(path);
-	//	project = multiProject.getProject();
-		//ArrayList<String> content = new ArrayList<String>();
 		content = new StringBuilder();
 		
 		String kmlProjectStart = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
@@ -62,7 +55,13 @@ public class Csv2kml {
 				
 				String kmlElement = "<Placemark>\n" +
 						"<name>" + metaDataElement.getSSID() +"</name>\n" +
-						"<description>" + metaDataElement.getType() + ", " + metaDataElement.getAccuracyMeters()+"</description>\n" +
+						"<description><![CDATA[" + 
+						"" + "Type: " + metaDataElement.getType() + "\n" +
+						"Accuracy Meters: " + metaDataElement.getAccuracyMeters()+
+						"\n" + "Time: " +  metaDataElement.getFirstSeen() + "\n" +
+						"AuthMode: " + metaDataElement.getAuthMode() + "\n" + 
+						"Channel: " + metaDataElement.getChannel() + "\n" +
+						"]]></description>\n" +
 						"<Point>\n" +
 						"<coordinates>" + geom.getY() + ", " + geom.getX() + "</coordinates>" +
 						"</Point>\n" +
@@ -81,5 +80,4 @@ public class Csv2kml {
 		content.append(kmlProjectEnd);
 		return content;
 	}
-	
 }

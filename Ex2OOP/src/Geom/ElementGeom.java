@@ -13,7 +13,6 @@ public class ElementGeom implements Geom_element{
 	private double y;
 	private double z;
 
-
 	/**
 	 * a constructor 
 	 * @param a - is the line that contain the point

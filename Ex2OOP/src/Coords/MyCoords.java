@@ -4,21 +4,35 @@ import java.util.Arrays;
 
 import Geom.Point3D;
 
+/**
+ * This class represents a basic coordinate system converter, including:
+ * 1. The 3D vector between two lat,lon, alt points 
+ * 2. Adding a 3D vector in meters to a global point.
+ * 3. convert a 3D vector from meters to polar coordinates
+ * @author yael hava and naama hartuv
+ */
+
 public class MyCoords implements coords_converter{
+	
 	private final int EarthRadius = 6371000;
 	private  double lonNorm;
-
-	private double x;		//לא בטוח שצריך ף עשינו אולי רק בשביל המיין
+	private double x;		
 	private double y;
 	private double z;
 
-	
+	/**
+	 * constructor
+	 * @param x - represent the x
+	 * @param y - represent the y 
+	 * @param z - represent the z
+	 */
 
-	public MyCoords(int i, int j, int k) {
-		this.x = i;
-		this.y = j;
-		this.z = k;
+	public MyCoords(int x, int y, int z) { 		
+		this.x = x;
+		this.y = y;
+		this.z = z;
 	}
+	
 	/** 
 	 * computes a new point which is the gps point transformed by a 3D vector (in meters)
 	 * @param gps: the gps point
@@ -50,7 +64,7 @@ public class MyCoords implements coords_converter{
 		double x = Math.sin(Math.PI * (gps1.x() - gps0.x()) /180) * EarthRadius;
 		lonNorm = Math.cos((gps0.x() * Math.PI)/180);
 		double y = Math.sin(Math.PI * (gps1.y() - gps0.y()) /180) * EarthRadius * lonNorm;
-		
+
 		distance = Math.sqrt(x*x + y*y);
 		return distance;
 	}
@@ -62,7 +76,7 @@ public class MyCoords implements coords_converter{
 	 *  @return the vector between the two points
 	 */
 
-	
+
 	@Override
 	public Point3D vector3D(Point3D gps0, Point3D gps1) {
 		double x = Math.sin(Math.PI * (gps1.x() - gps0.x()) /180) * EarthRadius;
@@ -76,25 +90,29 @@ public class MyCoords implements coords_converter{
 	/** computes the polar representation of the 3D vector be gps0-->gps1 
 	 *	@param gps0 - the first point
 	 *  @param gps1 - the second point  
-	 *  @return the azimuth between the two points
+	 *  @return the azimuth, elevation and distance between the two points
 	 */
-	
+
 	@Override
 	public double[] azimuth_elevation_dist(Point3D gps0, Point3D gps1) {
-		double[] azimuth = new double[3];
-		double radianGps0_x = Math.toRadians(gps0.x());
-		double radianGps0_y = Math.toRadians(gps0.y());
-		double radianGps1_x = Math.toRadians(gps1.x());
-		double radianGps1_y = Math.toRadians(gps1.y());
-		
-		Point3D p0 = new Point3D(radianGps0_x, radianGps0_y, gps0.z());
-		Point3D p1 = new Point3D(radianGps1_x, radianGps1_y, gps1.z());
+		double deltaY = Math.toRadians(gps1.y()) - Math.toRadians(gps0.y());
+		double deltaZ = gps1.z() - gps0.z();
 
-		
-		azimuth[0] = gps0.angleXY(p1);
-		azimuth[1] = gps0.angleZ(gps1);
-		azimuth[2] = gps0.distance2D(gps1);
-		return azimuth;
+		double azimuthLeft = Math.sin(deltaY) * Math.cos(Math.toRadians(gps1.x()));
+		double azimuthRight = (Math.cos(Math.toRadians(gps0.x())) * Math.sin(Math.toRadians(gps1.x()))) -
+				(Math.sin(Math.toRadians(gps0.x())) * Math.cos(Math.toRadians(gps1.x())) * Math.cos(deltaY));
+
+		double azimuth = Math.toDegrees(Math.atan2(azimuthLeft, azimuthRight));
+		if(azimuth < 0) {
+			azimuth += 360;
+		}
+
+		double distance = distance3d(gps0, gps1);
+		double elevation = Math.toDegrees(Math.asin((deltaZ) / distance));
+
+		double[] azimuthElevationDist = {azimuth, elevation, distance};
+
+		return azimuthElevationDist;
 	}
 
 	/**
@@ -102,30 +120,23 @@ public class MyCoords implements coords_converter{
 	 * @param p - the point to check if is in the valid range
 	 * @return true if is in the range false if not
 	 */
-	
+
 	@Override
 	public boolean isValid_GPS_Point(Point3D p) {
-		// TODO Auto-generated method stub
+		if((p.x() <= 180 && p.x() >= -180) &&
+				(p.y() <= 90 && p.y() >= -90) &&
+				(p.z() <= 10000 && p.z() >= -450)) {
+			return true;
+		}
 		return false;
 	}
 
-
-	public String toString() {
+	/**
+	 * prints the coords as a string
+	 */
+	
+	public String toString() {			//לא בטוח שצריך ף עשינו אולי רק בשביל המיין
 		return "(" + this.x + "," + this.y + "," + this.z + ")";
 	}
 
-
-	public static void main (String[]arg) {//לא לשכוח למחוק1!!!!!!!!!!!!!!!!!!1
-		Point3D v= new Point3D (337.6989921, -359.2492069,-20 );
-		Point3D p0= new Point3D (32.103315,35.209039,670);
-		MyCoords n= new MyCoords (0,0,0);
-		MyCoords nn= new MyCoords (0,0,0);
-
-		Point3D p1= n.add(p0, v);
-		System.out.println("add: " + n.add(p0, v));
-		System.out.println("dis: " + n.distance3d(p0, p1));
-		
-		System.out.println("vector meter: " + n.vector3D(p0, p1));
-		System.out.println("azimuth: " +  Arrays.toString(nn.azimuth_elevation_dist(p0, p1)));
-	}
 }
